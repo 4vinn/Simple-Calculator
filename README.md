@@ -3,4 +3,7 @@
 Neumorphic Calculator | HTML | CSS | Js
 
 
-Website: https://vineet-jakhar.github.io/Simple-Calculator/
+Website:-<br>
+- Netlify:-https://calculator-vj.netlify.app/
+<br>
+- https://vineet-jakhar.github.io/Simple-Calculator/
